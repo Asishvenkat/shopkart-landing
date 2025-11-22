@@ -57,13 +57,14 @@ Watch the project demo here: [Google Drive Video](https://drive.google.com/file/
 Below are the images present in the `public` folder, shown in the same order (1, 2, 3, 4):
 
 <div align="center">
-	<img src="/1.png" alt="Image 1" width="180" style="margin:8px;" />
-	<img src="/2.png" alt="Image 2" width="180" style="margin:8px;" />
+  <img src="frontend/public/1.png" alt="Image 1" width="420" style="margin:16px;" />
+  <img src="frontend/public/2.png" alt="Image 2" width="420" style="margin:16px;" />
 </div>
 <div align="center">
-	<img src="/3.png" alt="Image 3" width="180" style="margin:8px;" />
-	<img src="/4.png" alt="Image 4" width="180" style="margin:8px;" />
+  <img src="frontend/public/3.png" alt="Image 3" width="420" style="margin:16px;" />
+  <img src="frontend/public/4.png" alt="Image 4" width="420" style="margin:16px;" />
 </div>
+
 
 ## Submission
 - Push your code to a GitHub repository with this structure.

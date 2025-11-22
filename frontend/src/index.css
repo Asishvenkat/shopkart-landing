@@ -1,0 +1,21 @@
+:root {
+  /* Minimal global variables left intentionally empty */
+}
+
+/* Minimal global styles to avoid overriding Tailwind layout */
+* { box-sizing: border-box; }
+html, body, #root { height: 100%; }
+body {
+  margin: 0;
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: transparent;
+  color: inherit;
+}
+
+a { color: inherit; }
+
+button { font-family: inherit; }
+
+/* Let Tailwind handle the rest of styling */

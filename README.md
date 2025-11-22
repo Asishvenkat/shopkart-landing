@@ -64,17 +64,3 @@ Below are the images present in the `public` folder, shown in the same order (1,
   <img src="frontend/public/3.png" alt="Image 3" width="420" style="margin:16px;" />
   <img src="frontend/public/4.png" alt="Image 4" width="420" style="margin:16px;" />
 </div>
-
-
-## Submission
-- Push your code to a GitHub repository with this structure.
-- Include this README, screenshots, and video demo link.
-
-## Contact
-- Mobile: +91 8639648822
-- Email: support@trizenventures.com
-- Location: Hyderabad, Telangana, India
-- Website: https://trizenventures.com
-
----
-**Good luck!**

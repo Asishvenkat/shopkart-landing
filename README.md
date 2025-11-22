@@ -1,5 +1,16 @@
 
-# MERN Stack Product Landing Page Assignment
+# Table of Contents
+
+- [Overview](#overview)
+- [ Key Features](#-key-features)
+- [Folder Structure](#folder-structure)
+- [Setup Instructions](#setup-instructions)
+- [API Endpoints](#api-endpoints)
+- [Demo Video](#demo-video)
+- [Project Images](#project-images)
+- [Conclusion](#conclusion)
+
+# MERN Stack Product Landing Page 
 
 This project is a Product Landing Page built using the MERN stack. It includes a modern frontend interface and a functional backend search API, similar to an e-commerce homepage like Amazon or Flipkart. The application displays products fetched from MongoDB and allows users to search and filter them in real time.
 

@@ -1,7 +1,13 @@
+# MERN Stack Product Landing Page
 
-# Table of Contents
+A fully responsive e-commerce-style landing page built using the MERN stack, featuring live search, autosuggestions, and category filtering.
 
+---
+
+## Table of Contents
+- [Overview](#overview)
 - [Key Features](#key-features)
+- [Tech Stack](#tech-stack)
 - [Folder Structure](#folder-structure)
 - [Setup Instructions](#setup-instructions)
 - [API Endpoints](#api-endpoints)
@@ -9,17 +15,22 @@
 - [Project Images](#project-images)
 - [Conclusion](#conclusion)
 
-# MERN Stack Product Landing Page 
+---
 
-This project is a Product Landing Page built using the MERN stack. It includes a modern frontend interface and a functional backend search API, similar to an e-commerce homepage like Amazon or Flipkart. The application displays products fetched from MongoDB and allows users to search and filter them in real time.
+## Overview
+
+This project is a Product Landing Page built using the MERN stack.  
+It includes a modern frontend interface and a functional backend search API, similar to an e-commerce homepage like Amazon or Flipkart.
+
+The application displays products fetched from MongoDB and allows users to search and filter them in real time.
 
 The focus of the project is on:
 
-- **Clean and responsive UI**
-- **Fast product search with autosuggestions**
-- **Category-based filtering**
-- **Smooth user experience**
-- **Proper integration of React frontend with Node.js backend**
+- Clean and responsive UI  
+- Fast product search with autosuggestions  
+- Category-based filtering  
+- Smooth user experience  
+- Proper integration of React frontend with Node.js backend  
 
 This assignment demonstrates full-stack development skills using React, Node.js, Express, and MongoDB, along with UI design, API integration, and state management.
 

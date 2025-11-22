@@ -1,8 +1,7 @@
 
 # Table of Contents
 
-- [Overview](#overview)
-- [ Key Features](#-key-features)
+- [Key Features](#key-features)
 - [Folder Structure](#folder-structure)
 - [Setup Instructions](#setup-instructions)
 - [API Endpoints](#api-endpoints)
@@ -26,7 +25,7 @@ This assignment demonstrates full-stack development skills using React, Node.js,
 
 ---
 
-##  Key Features
+## Key Features
 
 ###  Live Product Search
 - Search bar with real-time suggestions

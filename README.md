@@ -50,7 +50,7 @@ npm run dev    # Start React app (default: http://localhost:5173)
 
 # Demo Video
 
-Watch the project demo here: [Google Drive Video](https://drive.google.com/file/d/1Nq4oBvZtuClrTr75vLwldcfy06O-7Wuh/view?usp=sharing)
+Watch the project demo here: [Google Drive Video](https://drive.google.com/file/d/1E56jYvy7XS6isbW49hnywTbJaW1H2zV_/view?usp=sharing)
 
 # Project Images
 
